@@ -2,4 +2,3 @@
 SELECT * FROM consultorio WHERE id > 0;
 SELECT * FROM medicos WHERE id > 0;
 SELECT * FROM pacientes WHERE id > 0;
-SELECT * FROM medico_paciente WHERE id > 0;

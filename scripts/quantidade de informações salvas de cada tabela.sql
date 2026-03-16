@@ -2,4 +2,3 @@
 SELECT COUNT(*) FROM consultorio;
 SELECT COUNT(*) FROM medicos;
 SELECT COUNT(*) FROM pacientes;
-SELECT COUNT(*) FROM medico_paciente;

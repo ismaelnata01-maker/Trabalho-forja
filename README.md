@@ -32,7 +32,7 @@ Este repositório contém o projeto desenvolvido para a disciplina de Banco de D
 
 ## Aluno
 
-- Nome
+- Ismael Natã S.S. Santos
 
 1 consultorio tem N medicos
 N medicos tem N pacientes
